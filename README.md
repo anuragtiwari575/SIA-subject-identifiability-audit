@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33629574/README.md)
-# SIA-subject-identifiability-audit# SIA — Subject Identifiability Auditing
+# SIA — Subject Identifiability Auditing
 
 Code for **"SIA: A Subject Identifiability Auditing Framework for Detecting Patient-Level
 Leakage in Medical Imaging Benchmarks"** (ICVGIP 2026).
